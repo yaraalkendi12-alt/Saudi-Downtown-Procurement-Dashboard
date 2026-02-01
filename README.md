@@ -52,3 +52,17 @@ The dashboard enabled leadership to:
 
 ## Delivery Timeline
 First functional dashboard version delivered within 4 days under structured training timeline.
+
+
+---
+---
+
+## Dashboard Preview
+
+![dashboard_homepage](Screenshots/dashboard_homepage.png)
+![dashboard_Employee](Screenshots/dashboard_Employee.png)
+![dashboard_request](Screenshots/dashboard_request.png)
+![dashboard_procurement](Screenshots/dashboard_procurement.png)
+
+
+
